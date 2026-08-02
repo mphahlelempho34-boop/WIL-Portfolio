@@ -1,16 +1,11 @@
-# WIL Portfolio
+#WIL Portfolio
 
-## About Me
+##About Me
 
 Hello! My name is Mpho Mphahlele.
 
 I am a final-year Diploma in Informatics student at Tshwane University of Technology (TUT).
 
-During my Work Integrated Learning (WIL) programme, I hope to:
-- Gain practical experience in software development.
-- Improve my programming skills in Java, SQL, HTML, CSS, GitHub, and Haskell.
-- Learn functional programming using Haskell.
-- Learn how to work effectively in a professional team.
-- Build projects that strengthen my portfolio and prepare me for a career in ICT.
+I am passionate about technology and enjoy learning new tools and concepts that can help solve real-world problems. During my Work Integrated Learning (WIL) programme, I hope to gain practical industry experience, strengthen my skills in Java, SQL, GitHub, and Haskell, improve my problem-solving and teamwork abilities, and develop a better understanding of professional workplace practices. I look forward to building my technical knowledge and preparing for a successful career in the ICT industry.
 
 Thank you for visiting my WIL portfolio.
