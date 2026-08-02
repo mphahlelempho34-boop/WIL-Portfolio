@@ -1,6 +1,6 @@
-#WIL Portfolio
+WIL Portfolio
 
-##About Me
+About Me
 
 Hello! My name is Mpho Mphahlele.
 
